@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://i.pinimg.com/originals/2d/4b/2c/2d4b2c72458d0255ca9497b95c3c0032.jpg);
+    color: #f3e8e8;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.countdown {
+    background-color: #1111119d;
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 465px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.788);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.timer {
+    font-size: 48px;
+    margin-top: 20px;
+    background-color: #00000073;
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.719);
+}
+
+.label {
+    font-size: 18px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    color: #fff;
+}
